@@ -29,6 +29,7 @@ Requirements
 Python
 Qiskit
 
+Purpose
 
 These examples aim to provide a clear and progressive introduction to quantum computing concepts, from basic qubit manipulation to advanced algorithms.
 
