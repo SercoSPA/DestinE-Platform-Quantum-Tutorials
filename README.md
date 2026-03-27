@@ -2,7 +2,7 @@
 DestinE-Platform-Quantum-Tutorials
 
 Welcome on DestinE-Platform-Quantum-Tutorials repository!
-This repository contains four illustrative examples designed to introduce key concepts in quantum computing using Qiskit.
+This repository contains four illustrative examples designed to introduce key concepts in quantum computing using Qiskit. We chose to focus on the quiskit framework because it provides one of the most reliable simulators at the moment, and is therefore the ideal context to analyze the basic properties of qubits.
 
 Contents
 1. Qubit Basics
