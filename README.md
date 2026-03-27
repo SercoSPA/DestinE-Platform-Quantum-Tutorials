@@ -21,10 +21,14 @@ In the third example, we examine how quantum computing can be leveraged to simul
 
 The fourth example implements the well-known Shor’s algorithm to factorize the number 15, demonstrating one of the most famous quantum algorithms with real computational implications.
 
+5. Range doppler algorithm
+
+The fifth example implements a quantum version of a radar signal processing algorithm, which is thought to offer advantages over its classical counterpart.
+
 Requirements
 Python
 Qiskit
-Purpose
+
 
 These examples aim to provide a clear and progressive introduction to quantum computing concepts, from basic qubit manipulation to advanced algorithms.
 
