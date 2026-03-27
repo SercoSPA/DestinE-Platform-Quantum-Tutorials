@@ -4,7 +4,7 @@ DestinE-Platform-Quantum-Tutorials
 Welcome on DestinE-Platform-Quantum-Tutorials repository!
 This repository contains four illustrative examples designed to introduce key concepts in quantum computing using Qiskit. We chose to focus on the quiskit framework because it provides one of the most reliable simulators at the moment, and is therefore the ideal context to analyze the basic properties of qubits.
 
-Contents
+-Contents
 1. Qubit Basics
 
 In the first example, Qubit_basics, we introduce fundamental operations on qubits and the corresponding quantum gates provided by Qiskit.
@@ -25,14 +25,14 @@ The fourth example implements the well-known Shor’s algorithm to factorize the
 
 The fifth example implements a quantum version of a radar signal processing algorithm, which is thought to offer advantages over its classical counterpart.
 
-Requirements
+-Requirements
 Python
 Qiskit
 
-Purpose
+-Purpose
 
 These examples aim to provide a clear and progressive introduction to quantum computing concepts, from basic qubit manipulation to advanced algorithms.
 
-License
+-License
 
 This project is open-source
