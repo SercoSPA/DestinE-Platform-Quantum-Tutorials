@@ -2,7 +2,7 @@
 DestinE-Platform-Quantum-Tutorials
 
 Welcome on DestinE-Platform-Quantum-Tutorials repository!
-This repository contains four illustrative examples designed to introduce key concepts in quantum computing using Qiskit. We chose to focus on the quiskit framework because it provides one of the most reliable simulators at the moment, and is therefore the ideal context to analyze the basic properties of qubits.
+This repository contains four illustrative examples designed to introduce key concepts in quantum computing using Qiskit. This framework was chosen because of its advanced features, flexibility and is therefore the ideal context to analyze the basic properties of qubits.
 
 -Contents
 1. Qubit Basics
@@ -19,7 +19,7 @@ In the third example, we examine how quantum computing can be leveraged to simul
 
 4. Shor’s Algorithm
 
-The fourth example implements the well-known Shor’s algorithm to factorize the number 15, demonstrating one of the most famous quantum algorithms with real computational implications.
+The fourth example implements the well-known Shor’s algorithm to factorize the number 15, with strong evidence of super-polynomial speedup compared to classical equivalents.
 
 5. Range doppler algorithm
 
